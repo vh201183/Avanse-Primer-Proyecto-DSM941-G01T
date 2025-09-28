@@ -1,0 +1,20 @@
+[2025-09-27 14:48:26][INFO] Cargados 10 productos desde inventario.txt
+[2025-09-27 14:48:26][INFO] Aplicación iniciada.
+[2025-09-27 14:49:00][INFO] Agregado al carrito 1x 'Auriculares Sony WH-CH510' (id=7)
+[2025-09-27 14:49:00][INFO] Inventario guardado en inventario.txt (10 productos).
+[2025-09-27 14:49:13][INFO] Factura generada. Items=1 Subtotal=50.0 IVA=6.5 Total=56.5
+[2025-09-27 14:49:13][INFO] Inventario guardado en inventario.txt (10 productos).
+[2025-09-27 14:49:58][INFO] Agregado al carrito 2x 'Tablet Samsung Galaxy A8' (id=10)
+[2025-09-27 14:49:58][INFO] Inventario guardado en inventario.txt (10 productos).
+[2025-09-27 14:50:28][INFO] Inventario guardado en inventario.txt (10 productos).
+[2025-09-27 14:50:45][INFO] Inventario guardado en inventario.txt (10 productos).
+[2025-09-27 14:53:12][INFO] Cargados 10 productos desde inventario.txt
+[2025-09-27 14:53:12][INFO] Aplicación iniciada.
+[2025-09-27 14:53:51][INFO] Cargados 10 productos desde inventario.txt
+[2025-09-27 14:53:51][INFO] Aplicación iniciada.
+[2025-09-27 14:54:00][INFO] Agregado al carrito 2x 'Tablet Samsung Galaxy A8' (id=10)
+[2025-09-27 14:54:00][INFO] Inventario guardado en inventario.txt (10 productos).
+[2025-09-27 14:54:22][INFO] Eliminado del carrito 1x 'Tablet Samsung Galaxy A8' (id=10)
+[2025-09-27 14:54:22][INFO] Inventario guardado en inventario.txt (10 productos).
+[2025-09-27 14:57:37][INFO] Cargados 10 productos desde inventario.txt
+[2025-09-27 14:57:37][INFO] Aplicación iniciada.

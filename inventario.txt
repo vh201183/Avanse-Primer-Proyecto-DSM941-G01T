@@ -1,0 +1,10 @@
+1,Laptop Lenovo ThinkPad,850.0,6
+2,Mouse Logitech M170,15.5,20
+3,Teclado Mecánico Redragon,45.0,12
+4,Monitor Samsung 24,180.0,8
+5,Disco Duro Externo 1TB,65.0,10
+6,Memoria USB 32GB Kingston,8.5,25
+7,Auriculares Sony WH-CH510,50.0,8
+8,Smartwatch Amazfit Bip U,70.0,6
+9,Impresora HP DeskJet 2755,120.0,4
+10,Tablet Samsung Galaxy A8,220.0,1
